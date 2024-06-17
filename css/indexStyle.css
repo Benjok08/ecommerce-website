@@ -81,7 +81,7 @@ header{
     width: 100%;
     max-width: 300px;
     margin: 10px;
-    transition: all 150ms ease-in-out ;
+    transition: all 160ms ease-in-out ;
 }
 
 .card:hover{
